@@ -1,0 +1,3 @@
+Popup Maker Debug Logs:
+2024-5-17 04:20:37 - Log file initialized
+2024-5-17 04:20:37 - Cannot access cache file when tested. Tested file: https://dev1.kalkifashion.com/wp-content/uploads/pum/pum-site-styles.css Error given: cURL error 28: Connection timed out after 5000 milliseconds
